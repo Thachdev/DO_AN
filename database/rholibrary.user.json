@@ -1,0 +1,21 @@
+{
+  "_id": {
+    "$oid": "636b350b3932232a0fb66ed0"
+  },
+  "address": "Mot nguoi nhat ban",
+  "email": "meo may",
+  "name": "Doraemon",
+  "phone": "50",
+  "vip": true,
+  "favorite": false
+},
+{
+  "_id": {
+    "$oid": "63711a7be6dc36bab914952b"
+  },
+  "address": "Bình Thủy",
+  "email": "phu3009@gmail.com",
+  "name": "Nguyễn Hồ Minh Phú",
+  "phone": "0774008040",
+  "favorite": false
+}
